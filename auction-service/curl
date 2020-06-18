@@ -1,0 +1,7 @@
+curl --location --request POST 'https://feltes.eu.auth0.com/oauth/token' \
+--header 'Content-Type: application/x-www-form-urlencoded' \
+--data-urlencode 'client_id=BiJbe1RpNWnZkPd406xw8TbWpUP4xAOE' \
+--data-urlencode 'username=tiago@epiccode.dev' \
+--data-urlencode 'password=Pr3t3r4x1985' \
+--data-urlencode 'grant_type=password' \
+--data-urlencode 'scope=openid'
