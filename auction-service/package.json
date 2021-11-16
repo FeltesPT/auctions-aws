@@ -22,7 +22,7 @@
     "@middy/http-json-body-parser": "^1.0.0",
     "@middy/validator": "^1.0.0",
     "@types/aws-lambda": "^8.10.56",
-    "aws-sdk": "^2.639.0",
+    "aws-sdk": "^2.814.0",
     "http-errors": "^1.7.3",
     "uuid": "^8.1.0"
   }
